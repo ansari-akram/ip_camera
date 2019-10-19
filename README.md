@@ -1,1 +1,1 @@
-Display different ip camera feeds in different windows using opencv-python.
+Display multiple ip camera feeds in multiple windows using thread and opencv-python.
